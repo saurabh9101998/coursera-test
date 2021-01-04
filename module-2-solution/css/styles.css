@@ -16,15 +16,10 @@ p {
 }
 
 
-#container1 {
+#container {
   position: relative;
 }
-#container2 {
-  position: relative;
-}
-#container3 {
-  position: relative;
-}
+
 
 #p1 {
   background-color: #D59898;
